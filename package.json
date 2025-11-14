@@ -206,5 +206,8 @@
     "compilerOptions": {
       "rootDir": "."
     }
+  },
+  "dependencies": {
+    "zx": "^8.8.5"
   }
 }
